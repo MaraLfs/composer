@@ -1,0 +1,15 @@
+{
+    "name": "vendor/psr4",
+    "description": "quete psr4",
+    "authors": [
+        {
+            "name": "MaraLfs",
+            "email": "99500975+MaraLfs@users.noreply.github.com"
+        }
+    ],
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
